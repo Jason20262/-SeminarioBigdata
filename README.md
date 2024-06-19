@@ -1,5 +1,5 @@
 <h1 align="center">Hola, yo soy Jason Steve Rodriguez Navarrete</h1>
-<h3 align="center">Me desempeño como gerente de experiencia hace 1 año, pero cuanto con más de 7 años de experiencia como Business Analyst liderando diferentes proyectos operacionales y de data</h3>
+<h3 align="center">Me desempeño como gerente de experiencia hace 1 año, pero cuanto con más de 6 años de experiencia como Business Analyst liderando diferentes proyectos operacionales y de data</h3>
 
 - 🔭 Siigo **FCR, CSAT, Churn, Retention, Engagement,SLA**
 
